@@ -27,9 +27,7 @@ body::before {
  .portfolio-item:hover .portfolio-overlay {
   opacity: 1;
  }
- .portfolio-item:hover img {
-  transform: scale(1.1);
- }
+
  .portfolio-item img,
  .portfolio-item .portfolio-overlay {
   transition: all 0.4s ease;
